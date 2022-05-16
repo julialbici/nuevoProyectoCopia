@@ -84,7 +84,7 @@ nav ul .colorIndice a {
     border: 1px orange solid;
     border-radius: 7px;
     background-color: black;
-    color: orange;
+    color: black;
     height: 150%;
     width: 100%;
     display: flex;
@@ -101,7 +101,7 @@ nav ul .colorIndice a {
     border: 1px orange solid;
     border-radius: 7px;
     background-color: black;
-    color: orange;
+    color: black;
     height: 150%;
     width: 100%;
     display: flex;
@@ -275,7 +275,7 @@ main {
     border: 1px orange solid;
     border-radius: 7px;
     background-color: black;
-    color: orange;
+    color: black;
     display: flex;
     flex-flow: row wrap;
     align-items: center;
@@ -371,4 +371,24 @@ main {
 
 
 
+}
+
+
+.productosDestacados {
+    background-image: linear-gradient(to right, #fdc830, #f37335);
+}
+
+.dondeEstamos {
+    background-image: linear-gradient(to right, #fdc830, #f37335);
+
+}
+
+.regalaGiftCards {
+ 
+    background-image: linear-gradient(to right, #fdc830, #f37335);
+
+}
+
+h1 {
+    animate__pulse
 }
