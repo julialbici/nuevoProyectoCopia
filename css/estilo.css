@@ -190,6 +190,7 @@ footer {
     grid-template-columns: auto auto;
     grid-template-areas:
         "header header header"
+        "carousel carousel carousel"
         "prodDestacado prodDestacado prodDestacado"
         "main main main"
         "ultimaInfo ultimaInfo ultimaInfo"
@@ -228,6 +229,9 @@ main {
     grid-area: dondeEstamos;
 }
 
+.carousel {
+    grid-area: carousel;
+}
 
 .mapa {
     grid-area: mapa;
